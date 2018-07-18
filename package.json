@@ -1,0 +1,23 @@
+{
+    "name": "eslint-starter-google-config",
+    "version": "1.0.0",
+    "description": "Starter folder using google config ",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "javascript",
+        "eslint",
+        "google"
+    ],
+    "author": "Sullivan Tobias",
+    "license": "MIT",
+    "dependencies": {
+        "prettier-eslint": "^8.8.2"
+    },
+    "devDependencies": {
+        "eslint": "^5.1.0",
+        "eslint-config-google": "^0.9.1"
+    }
+}
