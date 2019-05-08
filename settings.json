@@ -1,0 +1,17 @@
+{
+    "window.zoomLevel": 2,
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+    "editor.fontSize": 13,
+    "editor.formatOnSave": true,
+    "terminal.integrated.fontFamily": "Fira Code",
+    "workbench.editor.highlightModifiedTabs": true,
+    "workbench.colorTheme": "Noctis Minimus",
+    "files.autoSave": "afterDelay",
+    "explorer.sortOrder": "type",
+    "editor.cursorStyle": "block",
+    "editor.cursorBlinking": "smooth",
+    "files.trimFinalNewlines": true,
+    "editor.acceptSuggestionOnEnter": "off",
+    "workbench.iconTheme": "material-icon-theme"
+}
